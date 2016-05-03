@@ -8,4 +8,4 @@
 2. CSV file
 3. File geodatabase
 
-Pulls geoJSON data from the www.medicare.gov website
+Pulls geoJSON data from https://www.medicare.gov/
